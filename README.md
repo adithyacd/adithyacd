@@ -1,13 +1,10 @@
-## Hi there, this Adithya CD
+## Hi there, I'm Adithya CD 👋
 
 <h2>About Me 💬</h2>
 
 <img width="15%" align="right" alt="Github" src="https://www.svgrepo.com/show/530534/medicine-icon.svg" />
 
-- 🔭 I’m a AI engineer with deep internest on **Generative AI**ns.
+- 🔭 Studying **M.Sc Cyber Security** in **PSG College Of Technology**.
 
-<!-- - 🌱 I’m currently learning **Kubernetes** -->
+- 👯 Deep interest in **GenAI**.
 
-- 👯 I’m looking to collaborate on **anything interesting**
-
-- ⚡ Fun fact **Jack of all trades , Master of Some!**
