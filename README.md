@@ -1,8 +1,8 @@
-## Hi there 
+## Hi there, this Adithya CD
 
 <h2>About Me 💬</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.svgrepo.com/show/530534/medicine-icon.svg" />
 
 - 🔭 I’m a AI engineer with deep internest on **Generative AI**ns.
 
